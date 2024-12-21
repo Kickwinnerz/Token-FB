@@ -1,7 +1,4 @@
-requests
-beautifulsoup4
-lxml
-re
+
 argparse
 colorama
 termcolor
